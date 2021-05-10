@@ -3,6 +3,7 @@ Unofficial curated list of resources for Governance, Risk and Compliance in Red 
 
 ## The Project 
 - Open Cluster Management - https://open-cluster-management.io/ 
+  - Community Meeting - https://github.com/open-cluster-management/community/projects/1
   - Governance Policy Framework - https://open-cluster-management.io/getting-started/integration/policy-framework/
   - Policy controllers - https://open-cluster-management.io/getting-started/integration/policy-controllers/
 ### Repositories 
