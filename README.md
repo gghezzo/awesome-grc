@@ -13,11 +13,12 @@ Unofficial curated list of resources for Governance, Risk and Compliance in Red 
 - [Red Hat Advanced Cluster Management Doc](https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.2/html/security/index) - Red Hat's RHACM Security production documentation 
 ## Blogs of Plenty 
 - 2021
+  - [Integrating Gatekeeper with Red Hat Advanced Cluster Management for Kubernetes](https://www.openshift.com/blog/integrating-gatekeeper-with-red-hat-advanced-cluster-management-for-kubernetes) - April 13, 2021
   - [Securing Kubernetes Clusters with Sysdig and RHACM](https://www.openshift.com/blog/securing-kubernetes-clusters-with-sysdig-and-red-hat-advanced-cluster-management) - January 12, 2021
   - [Implement Policy-based Governance Using Configuration Management of RHACM](https://www.openshift.com/blog/implement-policy-based-governance-using-configuration-management-of-red-hat-advanced-cluster-management-for-kubernetes) - January 14, 2021
   - [Contributing and deploying community policies with Red Hat Advanced Cluster Management and GitOps](https://www.openshift.com/blog/contributing-and-deploying-community-policies-with-red-hat-advanced-cluster-management-and-gitops) - January 14, 2021
   - [Address CVEs Using Red Hat Advanced Cluster Management Governance Policy Framework](https://www.openshift.com/blog/address-cves-using-red-hat-advanced-cluster-management-governance-policy-framework) - February 14, 2021
-  - 2020
+- 2020
   - [How to Integrate Open Policy Agent with RHACM Policy Framework](https://www.openshift.com/blog/how-to-integrate-open-policy-agent-with-red-hat-advanced-cluster-management-for-kubernetes-policy-framework) - August 4, 2020 
   - [Comply to standards using policy based governance of RHACM](https://www.openshift.com/blog/comply-to-standards-using-policy-based-governance-of-red-hat-advanced-cluster-management-for-kubernetes) - August 5, 2020 
   - [Develop your own policy controller to integrae with RHACM](https://www.openshift.com/blog/develop-your-own-policy-controller-to-integrate-with-red-hat-advanced-cluster-management-for-kubernetes) - August 13,2020
