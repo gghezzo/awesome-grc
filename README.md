@@ -21,7 +21,7 @@ Unofficial curated list of resources for Governance, Risk and Compliance in Red 
 - 2020
   - [How to Integrate Open Policy Agent with RHACM Policy Framework](https://www.openshift.com/blog/how-to-integrate-open-policy-agent-with-red-hat-advanced-cluster-management-for-kubernetes-policy-framework) - August 4, 2020 
   - [Comply to standards using policy based governance of RHACM](https://www.openshift.com/blog/comply-to-standards-using-policy-based-governance-of-red-hat-advanced-cluster-management-for-kubernetes) - August 5, 2020 
-  - [Develop your own policy controller to integrae with RHACM](https://www.openshift.com/blog/develop-your-own-policy-controller-to-integrate-with-red-hat-advanced-cluster-management-for-kubernetes) - August 13,2020
+  - [Develop your own policy controller to integrate with RHACM](https://www.openshift.com/blog/develop-your-own-policy-controller-to-integrate-with-red-hat-advanced-cluster-management-for-kubernetes) - August 13,2020
 
 
 
