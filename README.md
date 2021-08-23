@@ -13,6 +13,7 @@ Unofficial curated list of resources for Governance, Risk and Compliance in Red 
 - [Red Hat Advanced Cluster Management Doc](https://access.redhat.com/documentation/en-us/red_hat_advanced_cluster_management_for_kubernetes/2.2/html/security/index) - Red Hat's RHACM Security production documentation 
 ## Blogs of Plenty 
 - 2021
+  - [RHACM and Policies - An Introduction](https://www.opensourcerers.org/2021/08/23/rhacm-and-policies-an-introduction/) - Matthias Pfutzner - August 23, 2021
   - [Integrating Gatekeeper with Red Hat Advanced Cluster Management for Kubernetes](https://www.openshift.com/blog/integrating-gatekeeper-with-red-hat-advanced-cluster-management-for-kubernetes) - April 13, 2021
   - [Securing Kubernetes Clusters with Sysdig and RHACM](https://www.openshift.com/blog/securing-kubernetes-clusters-with-sysdig-and-red-hat-advanced-cluster-management) - January 12, 2021
   - [Implement Policy-based Governance Using Configuration Management of RHACM](https://www.openshift.com/blog/implement-policy-based-governance-using-configuration-management-of-red-hat-advanced-cluster-management-for-kubernetes) - January 14, 2021
