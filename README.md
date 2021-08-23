@@ -28,6 +28,7 @@ Unofficial curated list of resources for Governance, Risk and Compliance in Red 
 
 ## Videos of Joy 
 - 2021
+  - [RHACM Presents: Security & Governance with OpenShift Plaform Plus](https://www.youtube.com/watch?v=OlfvR_k6TYk) - Gus Parvin and Jaya - August 3, 2021
   - [Black Duck and RHACM](https://www.youtube.com/watch?v=nU3d0nFYPso) - Dave Meurer - May 21, 2021 (Hint: gets good at minute 3) 
   - [OPA Agent Gatekeeper: Centralized Polcy and Governance](https://www.youtube.com/watch?v=zjX31QaYFRc) - January 26, 2021 by Jaya and Yu 
   - [Open Cluster Management - Policy Framework](https://www.youtube.com/watch?v=13TOnhu4ex8) - Yu Cao 
